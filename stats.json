@@ -1,0 +1,60 @@
+{
+  "assetsByChunkName": {
+    "commons": [
+      "commons-175d1c9db670b02ac746.js",
+      "commons-175d1c9db670b02ac746.js.map"
+    ],
+    "layout-component---index": [
+      "layout-component---index-9b9f651e059683743b90.js",
+      "layout-component---index-9b9f651e059683743b90.js.map"
+    ],
+    "path---resume": [
+      "path---resume-586c7e095e534a3909ec.js",
+      "path---resume-586c7e095e534a3909ec.js.map"
+    ],
+    "path---music": [
+      "path---music-586c7e095e534a3909ec.js",
+      "path---music-586c7e095e534a3909ec.js.map"
+    ],
+    "path---index": [
+      "path---index-586c7e095e534a3909ec.js",
+      "path---index-586c7e095e534a3909ec.js.map"
+    ],
+    "path---about": [
+      "path---about-586c7e095e534a3909ec.js",
+      "path---about-586c7e095e534a3909ec.js.map"
+    ],
+    "path---404": [
+      "path---404-586c7e095e534a3909ec.js",
+      "path---404-586c7e095e534a3909ec.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-586c7e095e534a3909ec.js",
+      "path---404-html-586c7e095e534a3909ec.js.map"
+    ],
+    "page-component---src-pages-resume-js": [
+      "page-component---src-pages-resume-js-4a6564a84c4013b58a51.js",
+      "page-component---src-pages-resume-js-4a6564a84c4013b58a51.js.map"
+    ],
+    "page-component---src-pages-music-js": [
+      "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js",
+      "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js.map"
+    ],
+    "page-component---src-pages-index-js": [
+      "page-component---src-pages-index-js-7388a6add7cc2c69b86c.js",
+      "page-component---src-pages-index-js-7388a6add7cc2c69b86c.js.map"
+    ],
+    "page-component---src-pages-about-js": [
+      "page-component---src-pages-about-js-3e574c074557a91b0f62.js",
+      "page-component---src-pages-about-js-3e574c074557a91b0f62.js.map"
+    ],
+    "page-component---src-pages-404-js": [
+      "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js",
+      "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js.map"
+    ],
+    "app": [
+      "app-d2b48ba9ad2e4622dd36.js",
+      "app-d2b48ba9ad2e4622dd36.js.map"
+    ]
+  }
+}
