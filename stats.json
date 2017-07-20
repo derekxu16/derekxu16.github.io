@@ -4,13 +4,17 @@
       "commons-175d1c9db670b02ac746.js",
       "commons-175d1c9db670b02ac746.js.map"
     ],
-    "layout-component---index": [
-      "layout-component---index-de69c8f6c7766f52a575.js",
-      "layout-component---index-de69c8f6c7766f52a575.js.map"
+    "page-component---src-pages-index-js": [
+      "page-component---src-pages-index-js-ddab929664a11a4e5f57.js",
+      "page-component---src-pages-index-js-ddab929664a11a4e5f57.js.map"
     ],
     "path---resume": [
       "path---resume-586c7e095e534a3909ec.js",
       "path---resume-586c7e095e534a3909ec.js.map"
+    ],
+    "path---projects": [
+      "path---projects-586c7e095e534a3909ec.js",
+      "path---projects-586c7e095e534a3909ec.js.map"
     ],
     "path---music": [
       "path---music-586c7e095e534a3909ec.js",
@@ -33,16 +37,16 @@
       "path---404-html-586c7e095e534a3909ec.js.map"
     ],
     "page-component---src-pages-resume-js": [
-      "page-component---src-pages-resume-js-d26efef4f9a4aef00094.js",
-      "page-component---src-pages-resume-js-d26efef4f9a4aef00094.js.map"
+      "page-component---src-pages-resume-js-9044525654fa889e40fd.js",
+      "page-component---src-pages-resume-js-9044525654fa889e40fd.js.map"
+    ],
+    "page-component---src-pages-projects-js": [
+      "page-component---src-pages-projects-js-a1aaadeee52c09087022.js",
+      "page-component---src-pages-projects-js-a1aaadeee52c09087022.js.map"
     ],
     "page-component---src-pages-music-js": [
       "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js",
       "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js.map"
-    ],
-    "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-7388a6add7cc2c69b86c.js",
-      "page-component---src-pages-index-js-7388a6add7cc2c69b86c.js.map"
     ],
     "page-component---src-pages-about-js": [
       "page-component---src-pages-about-js-05bd4eea370610365aa7.js",
@@ -52,9 +56,13 @@
       "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js",
       "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js.map"
     ],
+    "layout-component---index": [
+      "layout-component---index-3537d5ba5b4d82094802.js",
+      "layout-component---index-3537d5ba5b4d82094802.js.map"
+    ],
     "app": [
-      "app-d2b48ba9ad2e4622dd36.js",
-      "app-d2b48ba9ad2e4622dd36.js.map"
+      "app-8813c502d6e3d930a069.js",
+      "app-8813c502d6e3d930a069.js.map"
     ]
   }
 }
