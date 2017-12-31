@@ -4,9 +4,21 @@
       "commons-175d1c9db670b02ac746.js",
       "commons-175d1c9db670b02ac746.js.map"
     ],
+    "layout-component---index": [
+      "layout-component---index-3b466e3ecdfd9943b450.js",
+      "layout-component---index-3b466e3ecdfd9943b450.js.map"
+    ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-6ef7addd6023346f0204.js",
-      "page-component---src-pages-index-js-6ef7addd6023346f0204.js.map"
+      "page-component---src-pages-index-js-2f7c3033579489f720b1.js",
+      "page-component---src-pages-index-js-2f7c3033579489f720b1.js.map"
+    ],
+    "page-component---src-pages-resume-js": [
+      "page-component---src-pages-resume-js-00226cce7afbf15f296b.js",
+      "page-component---src-pages-resume-js-00226cce7afbf15f296b.js.map"
+    ],
+    "page-component---src-pages-about-js": [
+      "page-component---src-pages-about-js-acea0b6ec2c526653454.js",
+      "page-component---src-pages-about-js-acea0b6ec2c526653454.js.map"
     ],
     "path---resume": [
       "path---resume-586c7e095e534a3909ec.js",
@@ -36,29 +48,17 @@
       "path---404-html-586c7e095e534a3909ec.js",
       "path---404-html-586c7e095e534a3909ec.js.map"
     ],
-    "page-component---src-pages-resume-js": [
-      "page-component---src-pages-resume-js-700cb8296ed1bb9afad3.js",
-      "page-component---src-pages-resume-js-700cb8296ed1bb9afad3.js.map"
-    ],
     "page-component---src-pages-projects-js": [
-      "page-component---src-pages-projects-js-1cbce2dfd211f10d3e6c.js",
-      "page-component---src-pages-projects-js-1cbce2dfd211f10d3e6c.js.map"
+      "page-component---src-pages-projects-js-847d57613ae813aa19b2.js",
+      "page-component---src-pages-projects-js-847d57613ae813aa19b2.js.map"
     ],
     "page-component---src-pages-music-js": [
       "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js",
       "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js.map"
     ],
-    "page-component---src-pages-about-js": [
-      "page-component---src-pages-about-js-05bd4eea370610365aa7.js",
-      "page-component---src-pages-about-js-05bd4eea370610365aa7.js.map"
-    ],
     "page-component---src-pages-404-js": [
       "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js",
       "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js.map"
-    ],
-    "layout-component---index": [
-      "layout-component---index-8968e7314588d10d0031.js",
-      "layout-component---index-8968e7314588d10d0031.js.map"
     ],
     "app": [
       "app-8813c502d6e3d930a069.js",
