@@ -5,20 +5,20 @@
       "commons-e5987adb9ffea117940f.js.map"
     ],
     "layout-component---index": [
-      "layout-component---index-28957974c72ff0b963d3.js",
-      "layout-component---index-28957974c72ff0b963d3.js.map"
+      "layout-component---index-71124a0c32dabe2112f4.js",
+      "layout-component---index-71124a0c32dabe2112f4.js.map"
     ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-69fed050a3e88352f2ba.js",
-      "page-component---src-pages-index-js-69fed050a3e88352f2ba.js.map"
+      "page-component---src-pages-index-js-cdf8050022f1ec8232de.js",
+      "page-component---src-pages-index-js-cdf8050022f1ec8232de.js.map"
     ],
     "page-component---src-pages-resume-js": [
-      "page-component---src-pages-resume-js-1cf3a4f2fc5389e56932.js",
-      "page-component---src-pages-resume-js-1cf3a4f2fc5389e56932.js.map"
+      "page-component---src-pages-resume-js-9e885b87eb55a9a3cb72.js",
+      "page-component---src-pages-resume-js-9e885b87eb55a9a3cb72.js.map"
     ],
     "page-component---src-pages-about-js": [
-      "page-component---src-pages-about-js-d6691c5c37d9bc06e751.js",
-      "page-component---src-pages-about-js-d6691c5c37d9bc06e751.js.map"
+      "page-component---src-pages-about-js-88d0693d3115546c3003.js",
+      "page-component---src-pages-about-js-88d0693d3115546c3003.js.map"
     ],
     "path---resume": [
       "path---resume-586c7e095e534a3909ec.js",
@@ -27,10 +27,6 @@
     "path---projects": [
       "path---projects-586c7e095e534a3909ec.js",
       "path---projects-586c7e095e534a3909ec.js.map"
-    ],
-    "path---music": [
-      "path---music-586c7e095e534a3909ec.js",
-      "path---music-586c7e095e534a3909ec.js.map"
     ],
     "path---index": [
       "path---index-586c7e095e534a3909ec.js",
@@ -52,17 +48,13 @@
       "page-component---src-pages-projects-js-e46f6ea7ae9a3281e998.js",
       "page-component---src-pages-projects-js-e46f6ea7ae9a3281e998.js.map"
     ],
-    "page-component---src-pages-music-js": [
-      "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js",
-      "page-component---src-pages-music-js-5f980bbcca5a6b7d4e95.js.map"
-    ],
     "page-component---src-pages-404-js": [
       "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js",
       "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js.map"
     ],
     "app": [
-      "app-8813c502d6e3d930a069.js",
-      "app-8813c502d6e3d930a069.js.map"
+      "app-4b8a94f588372b35b278.js",
+      "app-4b8a94f588372b35b278.js.map"
     ]
   }
 }
